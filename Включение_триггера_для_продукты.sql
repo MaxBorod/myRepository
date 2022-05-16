@@ -1,0 +1,1 @@
+ENABLE Trigger Products_INSERT_UPDATE ON Product_25_04

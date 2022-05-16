@@ -1,0 +1,1 @@
+Drop Trigger Products_INSERT_UPDATE
